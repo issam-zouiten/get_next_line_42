@@ -10,7 +10,7 @@ free().
 Is a succession of characters that end with ’ \n ’ (ascii code 0x0a ) or with End Of File.
 
 # How to compile it
-1- git clone https://github.com/Othmaneessafi/Get_Next_Line.git<br>
+1- git clone https://github.com/issam-zouiten/get_next_line.git<br>
 2- make -C ./Libft<br>
 3- gcc main.c get_next_line.c libft/libft.a -o get_next_line<br>
 4- ./get_next_line libft/Makefile
